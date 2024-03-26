@@ -1,0 +1,29 @@
+{
+    "name": "lunar-eclipse",
+    "displayName": "Lunar Eclipse",
+    "description": "Lunar Eclipse Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.87.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sanketbodke/lunar-eclipse-dark-theme"
+    },
+    "keywords": [
+        "theme",
+        "Lunar Eclipse",
+        "lunar eclipse ",
+        "Lunar eclipse dark"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Lunar Eclipse",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Lunar Eclipse-color-theme.json"
+        }]
+    }
+}
