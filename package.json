@@ -1,8 +1,10 @@
 {
-    "name": "lunar-eclipse",
-    "displayName": "Lunar Eclipse",
+    "name": "lunareclipse",
+    "displayName": "Lunar Eclipse Theme By Sanket",
     "description": "Lunar Eclipse Theme",
+    "icon": "https://i.postimg.cc/rsstW5D3/Lunar-Eclipse.png",
     "version": "0.0.1",
+    "publisher": "LunarEclipse",
     "engines": {
         "vscode": "^1.87.0"
     },
